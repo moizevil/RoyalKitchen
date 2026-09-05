@@ -1,0 +1,8 @@
+{
+  "name": "Royal Kitchen",
+  "description": "Full-Stack Restaurant Ordering System & Management Dashboard for Royal Kitchen in Sargodha, Pakistan",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
